@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<h1>Hi, I'm Krishna! <br/><a href="https://github.com/krishnavishwakarma1">Programmer</a>, <a href="#">Software Developer</a>, <a href="#">YouTuber</a></h1>
 
-You can use the [editor on GitHub](https://github.com/krishnavishwakarma1/krishnavishwakarma1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python]()a
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)]()
+  - [Ransomware Proof of Concept (Decrypter)]()
+  - [Keylogger with Email Capability]()
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
 
-### Markdown
+<h2>📺 Popular YouTube Videos</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [How to get into Cybersecurity Starting From Zero]()
 
-```markdown
-Syntax highlighted code block
+<h2> 🤳 Connect with me:</h2>
 
-# Header 1
-## Header 2
-### Header 3
+[<img align="left" alt="krishna | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="krishna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="krishna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="krishna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- Bulleted
-- List
+[twitter]: https://twitter.com/krishna
+[youtube]: https://www.youtube.com/c/krishna
+[instagram]: https://www.instagram.com/krishna
+[linkedin]: https://linkedin.com/in/krishna
 
-1. Numbered
-2. List
+<!--
+**krishnavishwakarma1/krishnavishwakarma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Bold** and _Italic_ and `Code` text
+Here are some ideas to get you started:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishnavishwakarma1/krishnavishwakarma1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
